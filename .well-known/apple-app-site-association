@@ -1,14 +1,14 @@
 {
    "webcredentials":{
       "apps":[
-         "ABCED12345.com.example.MyApp"
+         "ZC9MXP2FUK.com.Iphone.MMT"
       ]
    },
    "applinks":{
       "apps":[],
       "details":[
          {
-            "appID":"ABCED12345.com.example.MyApp.Clip",
+            "appID":"ZC9MXP2FUK.com.Iphone.MMT",
             "paths":[
                "/mobile/deeplink/*"
             ]
@@ -16,6 +16,6 @@
       ]
    },
    "appclips": {
-        "apps": ["ABCED12345.com.example.MyApp.Clip"]
+        "apps": ["ZC9MXP2FUK.com.Iphone.MMT.Clip"]
     }
 }
