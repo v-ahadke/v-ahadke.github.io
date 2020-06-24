@@ -1,10 +1,21 @@
 {
-	"webcredentials": {
-		"apps": [
-			"ABCED12345.com.example.MyApp"
-		]
-	},
-	"appclips": {
+   "webcredentials":{
+      "apps":[
+         "ABCED12345.com.example.MyApp"
+      ]
+   },
+   "applinks":{
+      "apps":[],
+      "details":[
+         {
+            "appID":"ABCED12345.com.example.MyApp.Clip",
+            "paths":[
+               "/mobile/deeplink/*"
+            ]
+         }
+      ]
+   },
+   "appclips": {
         "apps": ["ABCED12345.com.example.MyApp.Clip"]
     }
 }
